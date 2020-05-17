@@ -6,6 +6,7 @@
 !.zshrc
 !.gitignore
 !.xinitrc
+!.vimrc
 !.config
 !.config/compton.conf
 !.images
