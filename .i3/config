@@ -424,7 +424,6 @@ mode "$mode_gaps_outer" {
 exec --no-startup-id fcitx
 exec --no-startup-id xset s 0 
 exec --no-startup-id xset dpms 60000 80000 90000
-exec --no-startup-id sslocal -c ~/app/ss/conf/ss.json --log-file ~/app/ss/logs/ss.log -d start --pid-file ~/app/ss/run/ss.pidhttps://github.com/meskarune/i3lock-fancy
 bindsym $mod+Shift+A exec --no-startup-id deepin-screen-recorder
 
 
