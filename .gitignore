@@ -8,3 +8,10 @@
 !.xinitrc
 !.config
 !.config/compton.conf
+!.images
+!.images/logo
+!.images/wallpaper
+!.images/logo/*
+!.images/wallpaper/*
+!.config/nitrogen
+!.config/nitrogen/*
