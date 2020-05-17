@@ -15,3 +15,5 @@
 !.images/wallpaper/*
 !.config/nitrogen
 !.config/nitrogen/*
+!.config/conky
+!.config/conky/*
