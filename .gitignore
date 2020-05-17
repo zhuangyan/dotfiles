@@ -1,8 +1,10 @@
 *
 !README.md 
 !LICENSE
-!.i3/*
+!.i3
+!.i3/config
 !.zshrc
 !.gitignore
 !.xinitrc
 !.config
+!.config/compton.conf
